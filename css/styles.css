@@ -1,0 +1,56 @@
+.navbar-home {
+    background-color: #aa1818;
+    border-color: #e7e7e7;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 0;
+    height: 70px;
+}
+
+.navbar-home .navbar-nav>li>a {
+    color: #fff;
+    padding-top: 20px;
+}
+
+.navbar-home .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+    font-size: 3rem;
+    padding-top: 20px;
+    font-family: cursive;
+}
+
+.carousel-content {
+    height: 500px;
+}
+
+.about {
+    margin-top: 30px;
+}
+
+.about p {
+    text-align: justify;
+}
+
+.thumbnail img {
+    height: 300px;
+    width: 220px;
+}
+
+.types {margin-top: 40px;}
+
+.about-pic img {
+    height: 700px;
+}
+
+.footer {
+    background-color: #aa1818;
+    color: #fff;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+
+
+
+
+
